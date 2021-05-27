@@ -1,4 +1,4 @@
-package test;
+package xin.cosmos.test;
 
 import xin.cosmos.util.DateUtils;
 

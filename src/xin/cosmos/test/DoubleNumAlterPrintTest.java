@@ -1,11 +1,11 @@
-package test;
+package xin.cosmos.test;
 
 import xin.cosmos.thread.DoubleNumAlterPrint;
 
 /**
  * DoubleNumAlterPrint Test
  * 
- * @author geng
+ * @author ian
  *
  */
 public class DoubleNumAlterPrintTest {

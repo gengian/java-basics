@@ -1,4 +1,4 @@
-package demo;
+package xin.cosmos.hello;
 
 import java.util.Scanner;
 

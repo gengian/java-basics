@@ -5,7 +5,7 @@ package xin.cosmos.thread;
  * 
  * Written examination questions of a financial institution
  * 
- * @author geng
+ * @author ian
  *
  */
 public class DoubleNumAlterPrint {
@@ -16,7 +16,7 @@ public class DoubleNumAlterPrint {
 	/**
 	 * Thread A
 	 * 
-	 * @author geng
+	 * @author ian
 	 *
 	 */
 	public static class A implements Runnable {
@@ -44,7 +44,7 @@ public class DoubleNumAlterPrint {
 	/**
 	 * Thread A
 	 * 
-	 * @author geng
+	 * @author ian
 	 *
 	 */
 	public static class B implements Runnable {
