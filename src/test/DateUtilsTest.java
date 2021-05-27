@@ -1,4 +1,6 @@
-package xin.cosmos.util;
+package test;
+
+import xin.cosmos.util.DateUtils;
 
 public class DateUtilsTest {
 
